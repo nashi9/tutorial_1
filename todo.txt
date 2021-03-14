@@ -1,0 +1,10 @@
+☑Reverse
+☑CubeAndText
+☑CubeUse
+☑Collision
+☑ColorChange
+☑GranbAndScaling
+PosAngle
+UseCount
+
+エクスポートしたときにできるscriptフォルダを消していいか
