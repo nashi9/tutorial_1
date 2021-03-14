@@ -4,7 +4,7 @@
 ☑Collision
 ☑ColorChange
 ☑GranbAndScaling
-PosAngle
-UseCount
+☑PosAngle
+☑UseCount
 
 エクスポートしたときにできるscriptフォルダを消していいか
